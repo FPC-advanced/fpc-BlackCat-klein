@@ -4,7 +4,7 @@
 int main(){
     char s;
     printf("Enter your name:");
-    scanf("%s",s);
-    printf("\n "+s);
+    scanf("%s \n",s);
+    printf(s);
     return 0;
 }

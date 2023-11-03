@@ -2,3 +2,15 @@ Compilation started at 11/3/2023, 11:20:35 PM
 Compilation finished at 11/3/2023, 11:20:36 PM
 Compilation started at 11/3/2023, 11:21:10 PM
 Compilation finished at 11/3/2023, 11:21:11 PM
+Compilation started at 11/3/2023, 11:21:35 PM
+c:\Users\dualf\github-classroom\FPC-advanced\fpc-BlackCat-klein\set01\problem01.c: In function 'main':
+c:\Users\dualf\github-classroom\FPC-advanced\fpc-BlackCat-klein\set01\problem01.c:8:12: warning: passing argument 1 of 'printf' makes pointer from integer without a cast [-Wint-conversion]
+    8 |     printf(s);
+      |            ^
+      |            |
+      |            char
+In file included from c:\Users\dualf\github-classroom\FPC-advanced\fpc-BlackCat-klein\set01\problem01.c:2:
+C:/msys64/mingw64/include/stdio.h:368:25: note: expected 'const char *' but argument is of type 'char'
+  368 | int printf (const char *__format, ...)
+      |             ~~~~~~~~~~~~^~~~~~~~
+Compilation finished at 11/3/2023, 11:21:35 PM
