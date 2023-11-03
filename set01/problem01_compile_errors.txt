@@ -2,3 +2,12 @@ Compilation started at 11/3/2023, 11:28:28 PM
 Compilation finished at 11/3/2023, 11:28:28 PM
 Compilation started at 11/3/2023, 11:28:58 PM
 Compilation finished at 11/3/2023, 11:28:59 PM
+Compilation started at 11/3/2023, 11:30:18 PM
+c:\Users\dualf\github-classroom\FPC-advanced\fpc-BlackCat-klein\set01\problem01.c: In function 'main':
+c:\Users\dualf\github-classroom\FPC-advanced\fpc-BlackCat-klein\set01\problem01.c:6:26: error: expected ';' before 'return'
+    6 |     printf("Santhosh \n")
+      |                          ^
+      |                          ;
+    7 |     return 0;
+      |     ~~~~~~                
+Compilation finished at 11/3/2023, 11:30:18 PM

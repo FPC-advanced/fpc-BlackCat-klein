@@ -3,6 +3,6 @@
 
 int main(){
     char s;
-    printf("Santhosh \n");
+    printf("Santhosh \n")
     return 0;
 }
