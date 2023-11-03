@@ -3,8 +3,6 @@
 
 int main(){
     char s;
-    printf("Enter your name:");
-    scanf("%s \n",&s);
-    printf(s)
+    printf("Santhosh \n");
     return 0;
 }

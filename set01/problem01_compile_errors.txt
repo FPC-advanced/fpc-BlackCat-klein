@@ -44,3 +44,5 @@ c:\Users\dualf\github-classroom\FPC-advanced\fpc-BlackCat-klein\set01\problem01.
     9 |     return 0;
       |     ~~~~~~    
 Compilation finished at 11/3/2023, 11:22:56 PM
+Compilation started at 11/3/2023, 11:23:19 PM
+Compilation finished at 11/3/2023, 11:23:19 PM
