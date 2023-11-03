@@ -2,3 +2,25 @@ Warning: 'set logging on', an alias for the command 'set logging enabled', is de
 Use 'set logging enabled on'.
 
 Already logging to problem01_debug.log.
++l
+1	// 1. Write a C program to print your name.
+2	#include<stdio.h>
+3	
+4	int main(){
+5	    char s;
+6	    printf("Santhosh \n");
+7	    return 0;
+8	}
++b main
+Breakpoint 1 at 0x1400014b1: file c:\Users\dualf\github-classroom\FPC-advanced\fpc-BlackCat-klein\set01\problem01.c, line 6.
++r
+Starting program: C:\Users\dualf\github-classroom\FPC-advanced\fpc-BlackCat-klein\set01\problem01.exe 
+[New Thread 15848.0x1830]
+
+Thread 1 hit Breakpoint 1, main () at c:\Users\dualf\github-classroom\FPC-advanced\fpc-BlackCat-klein\set01\problem01.c:6
+6	    printf("Santhosh \n");
++c
+Continuing.
+[Thread 15848.0x1830 exited with code 0]
+[Inferior 1 (process 15848) exited normally]
++q
