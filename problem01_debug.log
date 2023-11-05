@@ -2,3 +2,8 @@ Warning: 'set logging on', an alias for the command 'set logging enabled', is de
 Use 'set logging enabled on'.
 
 Already logging to problem01_debug.log.
++l
+No symbol table is loaded.  Use the "file" command.
++qq
+Undefined command: "qq".  Try "help".
++q
