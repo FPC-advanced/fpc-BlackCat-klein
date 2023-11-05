@@ -1,0 +1,4 @@
+Warning: 'set logging on', an alias for the command 'set logging enabled', is deprecated.
+Use 'set logging enabled on'.
+
+Already logging to problem01_debug.log.
