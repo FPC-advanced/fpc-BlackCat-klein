@@ -51,3 +51,8 @@ Continuing.
 [Thread 9488.0x2d38 exited with code 0]
 [Inferior 1 (process 9488) exited normally]
 +q
+Warning: 'set logging on', an alias for the command 'set logging enabled', is deprecated.
+Use 'set logging enabled on'.
+
+Already logging to problem01_debug.log.
++set logging enabled off
